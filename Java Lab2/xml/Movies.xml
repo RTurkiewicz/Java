@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Movies>
+	<Movie Director="Maria Shriver" 
+	Picture="C:\Users\Robert\Desktop\JavaLab2\Java(Lab2)\img\Been Thinking.png" 
+	Price="14.19$" 
+	Premiere="12/11/2017" 
+	Title="I've Been Thinking" 
+	ID="1" />
+	<Movie Director="Michelle Obama"
+		Picture="C:\Users\Robert\Desktop\JavaLab2\Java(Lab2)\img\Becoming.png"
+		Price="22.75$" Premiere="November 13, 2018" Title="Becoming"
+		ID="2" />
+	<Movie Director="Kristin Hannah"
+		Picture="C:\Users\Robert\Desktop\JavaLab2\Java(Lab2)\img\The Great Alone.png"
+		Price="17.39$" Premiere="February 2018" Title="The Great Alone"
+		ID="3" />
+	<Movie Director="Madeleine L'Engle"
+		Picture="C:\Users\Robert\Desktop\JavaLab2\Java(Lab2)\img\A Wrinkle in Time.png"
+		Price="4.99 $" Premiere="1962" Title="A Wrinkle in Time" ID="4" ></Movie>
+	<Movie Director="Karen M. McManus   "
+		Picture="C:\Users\Robert\Desktop\JavaLab2\Java(Lab2)\img\One of Us Is Lying.png"
+		Price="13.38  $" Premiere="29 maja 2017"
+		Title="One of Us Is Lying" ID="5" />
+	<Movie Director="Chris Matthews"
+		Picture="C:\Users\Robert\Desktop\JavaLab2\Java(Lab2)\img\Bobby Kennedy A Raging Spirit.png"
+		Price="18.26$" Premiere=" 2017"
+		Title="Bobby Kennedy: A Raging Spirit" ID="6" /></Movies>
